@@ -231,7 +231,7 @@
     });
     
     
-    $('body').append('<a href="https://1.envato.market/OVMzW" class="buy-btn">Purchase <span>donal</span></a>');
+
 
 
     
